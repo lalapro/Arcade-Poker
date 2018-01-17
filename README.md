@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## Contact Me
 
-You can use the [editor on GitHub](https://github.com/lalapro/Arcade-Poker/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Contact me at jonathanyuenby@gmail.com!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Arcade Poker is a fun new twist on the traditional video poker game!!
 
-### Markdown
+## How to Play:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+ * Drag 5 cards to complete a hand
+ * Each hand will earn you points
+ * New cards will replace your board
+ * Play until you run out of the deck!
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+Compete with your friends and put your name onto the leaderboard!
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+## Screenshots
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lalapro/Arcade-Poker/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<div style="width:100%">
+  <img src="https://i.imgur.com/g6reX7S.jpg" width="24%"/>
+  <img src="https://i.imgur.com/M6yfAnC.png" width="24%"/>
+  <img src="https://i.imgur.com/jH9JpUa.png" width="24%"/>
+  <img src="https://i.imgur.com/UYdaxKs.png" width="24%"/>
+</div>
